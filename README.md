@@ -1,7 +1,7 @@
 # Portfolio Michael Machado
 
 ## **_Descrição do projeto_**
-Site construido como intuito de expor meus trabalhos e projetos. Site começa com um imagem de background alternando a cor com uso de uma animação de filtro.
+Site construido como intuito de expor meus trabalhos e projetos. Na **_HOMEPAGE_** temos uma imagem de background alternando a cor com uso de uma animação de filtro.
 
 Na aba **_PORTFOLIO_** temos um efeito de fade alternando entre os projetos, para isso usei o hook **useState** e um setInterval para alterar o projeto exibido. Ao passar o mouse em um projeto executamos um **clearInterval** e exibimos o projeto selecionado. Clicando no projeto exibi-se uma nova janela com uma breve descrição do projeto e um GIF para demostrar visualmente o projeto.
 
@@ -12,3 +12,8 @@ Já em **_ABOUT ME_** temos um texto em terceira pessoa descrevendo o desenvolve
 - [React](https://reactjs.org/docs/getting-started.html)
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [React Router](https://reactrouter.com/en/main)
+- [Styled Components](https://styled-components.com/docs)
+
+#
+
+<img src='./src/assets/GIFs/PORTFOLIO.gif'>
