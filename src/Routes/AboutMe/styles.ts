@@ -20,9 +20,11 @@ export const Contact = styled.picture`
   position: fixed;
   right: 0;
   margin-right: 40px;
+  border-radius: 4px;
 `;
 export const Image = styled.img`
   width: 20vw;
+  border-radius: 4px;
 `;
 
 export const Description = styled.section`
@@ -31,6 +33,7 @@ export const Description = styled.section`
   padding: 1% 4%;
   box-sizing: border-box;
   margin: auto;
+  border-radius: 4px;
 `;
 export const Paragraph = styled.p`
   color: white;
@@ -42,6 +45,7 @@ export const Buttons = styled.section`
   margin-top: 10px;
   background-color: #09090a;
   padding: 0.3%;
+  border-radius: 4px;
 `;
 
 export const Icon = styled.img`
