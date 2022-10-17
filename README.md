@@ -17,3 +17,4 @@ Já em **_ABOUT ME_** temos um texto em terceira pessoa descrevendo o desenvolve
 #
 
 <img src='./src/assets/GIFs/PORTFOLIO.gif'>
+
